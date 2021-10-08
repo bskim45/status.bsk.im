@@ -4,7 +4,7 @@
     "url": "https://bsk.im",
     "icon": "https://favicons.githubusercontent.com/bsk.im",
     "slug": "bsk-im",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 853,
     "timeMonth": 856,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 0
+    }
   }
 ]
