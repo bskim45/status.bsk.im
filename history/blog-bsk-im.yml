@@ -1,7 +1,7 @@
 url: https://blog.bsk.im
-status: up
-code: 200
-responseTime: 870
-lastUpdated: 2022-06-18T23:07:52.598Z
+status: down
+code: 500
+responseTime: 825
+lastUpdated: 2022-06-19T08:31:53.611Z
 startTime: Tue Feb 08 2022 16:11:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
