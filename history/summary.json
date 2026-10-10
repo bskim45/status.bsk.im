@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 237,
-    "timeWeek": 235,
-    "timeMonth": 240,
-    "timeYear": 220,
+    "timeDay": 208,
+    "timeWeek": 232,
+    "timeMonth": 239,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.bsk.im.ico",
     "slug": "blog-bsk-im",
     "status": "up",
-    "uptime": "80.95%",
+    "uptime": "80.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.48%",
+    "uptimeYear": "42.75%",
     "time": 504,
-    "timeDay": 947,
+    "timeDay": 930,
     "timeWeek": 934,
-    "timeMonth": 884,
-    "timeYear": 501,
+    "timeMonth": 885,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2026-05-06": 1396,
       "2026-05-05": 1440,
@@ -241,8 +241,7 @@
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
-      "2025-10-11": 1440,
-      "2025-10-10": 1440
+      "2025-10-11": 1440
     }
   }
 ]
